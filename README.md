@@ -6,7 +6,9 @@ See Hosp.geojson for a map of clinics that provides prosthetic services in Calif
 
 
 #### References:
-TIGER/Line Shapefile, 2016, state, California, Current County Subdivision State-based. (2016) https://catalog.data.gov/dataset/tiger-line-shapefile-2016-state-california-current-county-subdivision-state-based <br /> 
+
+TIGER/Line Shapefile, 2019, nation, U.S., Current County and Equivalent National Shapefile. (2022) https://catalog.data.gov/dataset/tiger-line-shapefile-2019-nation-u-s-current-county-and-equivalent-national-shapefile <br />
+TIGER/Line Shapefile, 2016, state, California, Current County Subdivision State-based. (2021) https://catalog.data.gov/dataset/tiger-line-shapefile-2016-state-california-current-county-subdivision-state-based <br /> 
 Full Replacement Monthly NPI File. NPPES Data Dissemination (March 13, 2023) https://download.cms.gov/nppes/NPI_Files.html <br /> 
 National Uniform Claim Committee (NUCC) code set list. (2023) https://taxonomy.nucc.org/ <br /> 
 NPPES Application Programming Interface (API). (2023) https://npiregistry.cms.hhs.gov/api-page <br /> 
