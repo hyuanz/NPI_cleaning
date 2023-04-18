@@ -1,9 +1,10 @@
-# geospatial_california_clinics
+# Clinic lists + visualizations
 
-See Hosp_States.geojson for a map of prosthetic clinics in California, Arizona, Nevada, Texas, Washington, Oregon, and Illinois.<br /> <br /> 
+See Hosp_States.geojson for a map of prosthetic clinics in the states including California, Arizona, Nevada, Texas, Washington, Oregon, and Illinois.<br /> 
+See list_states.xlsx for a list of prosthetic clinics in same states above. <br />
+See list_caliclinic.xlsx for a list of prosthetic clinics in California. <br /> 
 
-
-
+<br /> <br /> 
 
 #### References:
 
