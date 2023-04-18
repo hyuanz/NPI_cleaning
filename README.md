@@ -1,10 +1,11 @@
-# Clinic lists + visualizations
+## Clinic lists + visualizations
 
+#### Documentation
 Hosp_States.geojson is a map of prosthetic clinics in the states including California, Arizona, Nevada, Texas, Washington, Oregon, and Illinois.<br /> 
 list_states.xlsx is a list of prosthetic clinics in same states above. <br />
 list_caliclinic.xlsx is a list of prosthetic clinics in California. <br /> 
 
-<br /> <br /> 
+<br />
 
 #### References:
 
