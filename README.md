@@ -4,10 +4,6 @@
 Combined_States.geojson shows the distribution of prosthetic clinics in the U.S. as an interactive map.
 
 
-list_states.xlsx is a list of prosthetic clinics in same states above. <br />
-list_caliclinic.xlsx is a list of prosthetic clinics in California. <br /> 
-
-
 #### References:
 
 TIGER/Line Shapefile, 2019, nation, U.S., Current County and Equivalent National Shapefile. (2022) https://catalog.data.gov/dataset/tiger-line-shapefile-2019-nation-u-s-current-county-and-equivalent-national-shapefile <br />
