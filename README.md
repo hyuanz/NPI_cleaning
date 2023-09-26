@@ -1,8 +1,8 @@
 ## Clinic lists + visualizations
 
-#### Documentation:
-Combined_States.geojson shows the distribution of prosthetic clinics in the U.S. as an interactive map.
-
+#### Summary:
+**Combined_States.geojson** shows the distribution of prosthetic clinics in the U.S. as an interactive map.
+**npi_cleaned.xlsx** from the npiprev/cali folder is used in the California-P-O repo to create a list of California clinics
 
 #### References:
 
